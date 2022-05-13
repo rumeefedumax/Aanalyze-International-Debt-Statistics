@@ -8,5 +8,6 @@
 <li>Which country owns the maximum amount of debt and what does that amount look like?</li>
 <li>What is the average amount of debt owed by countries across different debt indicators?</li>
 
- <li>Data Stack: SQL
- <li>Level: Basic SQL
+ 
+### Data Stack: SQL (Postgres)
+### Level: Basic SQL
